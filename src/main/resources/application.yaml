@@ -1,0 +1,4 @@
+#todo
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432
